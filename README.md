@@ -1,0 +1,1 @@
+It was recreated the Netflix's main page interface using HTML5, CSS3 and JS. I had the opportunity to apply and understand how to structure a layout, CSS3 techniques using containers and variables, how to position elements using flexbox and how to use JQuery plugins. 
